@@ -12,5 +12,6 @@
 		<!--Expanded content for mods, probably with compatability patches as well.-->
 		<li IfModActive="Ludeon.Rimworld.Royalty">Patch/E_Royalty</li>
 		<li IfModActive="kentington.saveourship2">Patch/E_SOS2</li>
+		<li IfModActive="OskarPotocki.VFE.Vikings">Patch/E_VFEVikings</li>
 	</v1.2>
 </loadFolders>
